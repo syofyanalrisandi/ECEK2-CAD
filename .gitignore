@@ -40,3 +40,9 @@ verify_*.ps1
 .idea/
 .gemini/
 Thumbs.db
+
+OldVersions/
+
+crop_project_images.ps1
+export_pdf_pages.ps1
+
